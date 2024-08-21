@@ -1,1 +1,1 @@
-make # build HW SGX enclave
+docker build --no-cache -f docker/Dockerfile -t sgx-demo:latest .
