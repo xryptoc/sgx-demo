@@ -1,0 +1,11 @@
+app.out
+enclave.signed.so
+enclave.so
+.config_*
+*.o
+
+Enclave/Enclave_t.c
+Enclave/Enclave_t.h
+
+App/Enclave_u.c
+App/Enclave_u.h
