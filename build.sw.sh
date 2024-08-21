@@ -1,1 +1,1 @@
-SGX_MODE=SW make
+SGX_MODE=SW make  # build SW SGX enclave

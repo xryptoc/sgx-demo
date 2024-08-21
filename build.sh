@@ -1,1 +1,1 @@
-make
+make # build HW SGX enclave
